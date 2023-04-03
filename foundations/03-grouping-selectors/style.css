@@ -1,0 +1,12 @@
+.click {
+    background-color: black;
+    color: rgb(245, 239, 232);
+}
+.click-no {
+    background-color: rgb(247, 232, 33);
+}
+
+.click, .click-no {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
